@@ -2,7 +2,7 @@
   "name": "benshiundu",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://www.google.com",
+  "repository": "https://github.com/shiundu/npm-course.git",
   "scripts": {
     "test": "node test.js"
   },
